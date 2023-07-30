@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Keble Site**
 
-- 🌱 I’m currently learning **React, Sass**
+- 🌱 I’m currently learning **Sass, JavaScript**
 
 - 👯 I’m looking to collaborate on **Portfolio Website**
 
 - 🤝 I’m looking for help with **Portfolio Website**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, SCSS, JAVASCRIPT**
 
 - 📫 How to reach me **Olamideiyanda18@gmail.com**
 
