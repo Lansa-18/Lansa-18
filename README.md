@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mapelujo Abdulkareem</h1>
 <h3 align="center">A passionate Frontend Developer.</h3>
-<img align="right" width="400" src="[https://giphy.com/embed/L1R1tvI9svkIWwpVYr](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLHL_ntTdpgfPWj70u3EmqNtM9nmE3ZKwoQ&usqp=CAU)" alt="Coding">
+<img align="right" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lansa-18" alt="Lansa-18" /></a> </p>
